@@ -1,0 +1,29 @@
+{
+  "students": [
+    {"name": "John Doe", "college": "University of Exampleville"},
+    {"name": "Jane Smith", "college": "Example State University"},
+    {"name": "Bob Johnson", "college": "Example Tech Institute"},
+    {"name": "Alice Williams", "college": "City College of Examples"},
+    {"name": "Charlie Brown", "college": "Example Community College"},
+    {"name": "Eva Davis", "college": "North Example University"},
+    {"name": "Frank White", "college": "Example Institute of Technology"},
+    {"name": "Grace Miller", "college": "South Example College"},
+    {"name": "Henry Lee", "college": "Eastern Example University"},
+    {"name": "Ivy Taylor", "college": "Western Example Institute"},
+    {"name": "Jack Robinson", "college": "Example Aeronautics University"},
+    {"name": "Katie Evans", "college": "Example Business School"},
+    {"name": "Leo Garcia", "college": "Central Example College"},
+    {"name": "Mia Hall", "college": "Example Medical School"},
+    {"name": "Nathan Reed", "college": "Example Law School"},
+    {"name": "Olivia Adams", "college": "Example Arts Academy"},
+    {"name": "Paul Turner", "college": "Example Engineering College"},
+    {"name": "Quincy Ward", "college": "Example Environmental Institute"},
+    {"name": "Rachel Scott", "college": "Example Science Center"},
+    {"name": "Samuel Wright", "college": "Example Maritime University"},
+    {"name": "Tina Patel", "college": "Example Film Institute"},
+    {"name": "Ulysses Kim", "college": "Example Music Conservatory"},
+    {"name": "Vivian Chen", "college": "Example Design School"},
+    {"name": "Walter Stewart", "college": "Example Political Science Institute"},
+    {"name": "Xavier Taylor", "college": "Example Language Academy"}
+  ]
+}
